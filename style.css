@@ -267,6 +267,10 @@ h2 {
     display: flex;
     gap: 2rem;
   }
+
+  .navUl li a:active {
+    color: #5d3bef;
+  }
   /* ------- Home -------*/
 
   .img_mobile {
